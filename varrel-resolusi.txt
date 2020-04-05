@@ -2,3 +2,5 @@ varrel resolusi
 - Konsisten untuk membuat kontent 2x seminggu
 - Membuat Platform untuk pengelolaan Video
 - Membuat forum diskusi
+- Membuat program kerja
+- Kolaborasi dengan lebih banyak expert
